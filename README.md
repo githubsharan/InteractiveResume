@@ -1,9 +1,5 @@
 
 
-### By the end:
-Resume sample view:
-![](http://i.imgur.com/pWU1Xbl.png)
-
 And your repository will include the following files:
 
 * **index.html**: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
